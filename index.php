@@ -6,7 +6,7 @@
 
 <body>
 <?php
-echo("Hi");
+echo("Cambio de nombre");
 ?>
 </body>
 
